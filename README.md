@@ -53,9 +53,11 @@ In conclusion, Breaking Chains innovatively transforms anti-drug education by of
 This tech stack provides a comprehensive set of tools and software for developing an immersive, interactive, and educational anti-drug abuse app within the metaverse. Each tool serves a specific purpose in content creation, development, optimization, and integration to deliver a rich and engaging user experience.
 
 
-<h2>AR Links</h2>
+<h2>TRY THIS AR</h2>
 
-Instagram:
+Instagram: https://www.instagram.com/ar/1033860797803914/?ch=N2JlZjY4ZmZlMjllZDY4ODE4OWY1MWNlZThjMmZmMzk%3D
 
-Facebook: 
+Facebook: https://www.facebook.com/fbcameraeffects/testit/346676141458517/YWM1ODE0ZjFjNjY5ZWZmZDJjYzBiMTlkZDlkM2M3MGU=/?source=test_link
+
+Note : WAIT UNTILL THE AR LOADS
 
