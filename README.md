@@ -17,7 +17,7 @@ In the end, Breaking Chains goes beyond traditional approaches, offering an enga
 
 
 
-Positive and Unique Solution for the Problem:
+<h2>Positive and Unique Solution for the Problem:</h2>
 
 Breaking Chains presents positive and unique solutions to anti-drug education by leveraging Augmented Reality (AR) technology. The game stands out with its immersive metaverse, guided by Officer Singh, where players actively engage in scenarios, making impactful decisions that shape the narrative. This dynamic approach moves beyond passive learning, fostering a deeper understanding of the consequences of drug abuse.
 
@@ -32,7 +32,7 @@ The use of AR technology creates realistic virtual environments, enabling users 
 In conclusion, Breaking Chains innovatively transforms anti-drug education by offering an engaging, personalized, and impactful experience. It goes beyond conventional methods, using AR to bridge the gap between traditional and digital education. The game empowers users to make informed choices, break free from outdated educational approaches, and contribute to a society with a more knowledgeable and resilient youth.
 
 
-Technology Stack:
+<h2>Technology Stack:</h2>
 
 1. PlayHT (Voice Synthesizer): For creating interactive voice-based educational elements within the app.
 
@@ -51,4 +51,11 @@ Technology Stack:
 8. Mixamo: To access a collection of animated characters and motions, potentially for adding animated characters or avatars within the app.
 
 This tech stack provides a comprehensive set of tools and software for developing an immersive, interactive, and educational anti-drug abuse app within the metaverse. Each tool serves a specific purpose in content creation, development, optimization, and integration to deliver a rich and engaging user experience.
+
+
+<h2>AR Links</h2>
+
+Instagram:
+
+Facebook: 
 
