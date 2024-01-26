@@ -42,13 +42,11 @@ In conclusion, Breaking Chains innovatively transforms anti-drug education by of
 
 4. Vectorizer.ai: For converting images or designs into scalable vector graphics, which can be used for various elements within the app.
 
-5. Unity: To develop the interactive gamified aspects of the app, creating a seamless user experience and incorporating the educational content.
+5. Convertio: For file conversion needs, ensuring compatibility and optimization across different platforms or software.
 
-6. Convertio: For file conversion needs, ensuring compatibility and optimization across different platforms or software.
+6. Removebg: To remove backgrounds from images, enabling seamless integration of visuals within the app's interface.
 
-7. Removebg: To remove backgrounds from images, enabling seamless integration of visuals within the app's interface.
-
-8. Mixamo: To access a collection of animated characters and motions, potentially for adding animated characters or avatars within the app.
+7. Mixamo: To access a collection of animated characters and motions, potentially for adding animated characters or avatars within the app.
 
 This tech stack provides a comprehensive set of tools and software for developing an immersive, interactive, and educational anti-drug abuse app within the metaverse. Each tool serves a specific purpose in content creation, development, optimization, and integration to deliver a rich and engaging user experience.
 
