@@ -55,9 +55,9 @@ This tech stack provides a comprehensive set of tools and software for developin
 
 <h2>TRY THIS AR</h2>
 
-Instagram: https://www.instagram.com/ar/1033860797803914/?ch=N2JlZjY4ZmZlMjllZDY4ODE4OWY1MWNlZThjMmZmMzk%3D
+Instagram: [https://www.instagram.com/ar/1033860797803914/?ch=N2JlZjY4ZmZlMjllZDY4ODE4OWY1MWNlZThjMmZmMzk%3D](https://www.instagram.com/ar/1526949554520756/)
 
-Facebook: https://www.facebook.com/fbcameraeffects/testit/346676141458517/YWM1ODE0ZjFjNjY5ZWZmZDJjYzBiMTlkZDlkM2M3MGU=/?source=test_link
+Facebook: [https://www.facebook.com/fbcameraeffects/testit/346676141458517/YWM1ODE0ZjFjNjY5ZWZmZDJjYzBiMTlkZDlkM2M3MGU=/?source=test_link](https://www.facebook.com/fbcameraeffects/tryit/1526949554520756/)https://www.facebook.com/fbcameraeffects/tryit/1526949554520756/
 
 Note : WAIT UNTILL THE AR LOADS
 
